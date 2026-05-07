@@ -1,6 +1,6 @@
 body{
     background-color: white;
-    margin: 150px;
+    margin-top: 150px;
 }
 .div-1{
     display: flex;
@@ -11,176 +11,203 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-top: -90px;
+    margin-top: -60px;
+    width: 700px;
+    margin-left: 50px;
     
 }
 #logo{
      width: 100%;
-  max-width: 500px;
+  max-width: 350px;
   height: auto;
-  margin-left: 100px;
+  margin-left: 160px;
+  margin-top: -20px;
 }
 h3{
     align-items: center;
     font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-    letter-spacing: 8px;
-    margin-left: 30px;
-    margin: 15px;
+    margin-left: 70px; 
+    margin-top: 10px;
 }
 #p-1{
-    font-size: 30px;
+    font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 2px;
-    margin-left: 100px;
+    margin-left: 120px;
+    margin-top: -15px;
     
 }
 #play_store{
    width: 250px;
    height: 100px;
-   margin-right: 20px;
-   margin-top: 30px;
+   margin-left: 40px;
+   margin-top: 60px;
 }
 #app_store{
     width: 250px;
     height: 100px;
     margin-top: 30px;
+    margin-left: 5px;
 }
 #sec_screens{
    display: flex;
    justify-content: center;
-   width: auto;
-   height: 1000px;
-   margin-top:100px;
+   width: 700px;
+   height: 700px;
+   margin-top:70px;
+   margin-left: 80px;
 }
 h1{
     align-items: center;
-    margin-left: 1140px;
-    margin-top: -700px;
-    font-size: 70px;
+    margin-left: 960px;
+    margin-top: -530px;
+    font-size: 40px;
+    letter-spacing: 4px;
 }
 #p-2{
     font-family: 'Roboto', sans-serif;
     align-items: center;
-    margin-left : 900px;
-    margin-top: 20px;
-    font-size: 60px;
+    margin-left : 800px;
+    margin-top: 50px;
+    font-size: 40px;
 }
 #p-3{
     font-family: 'Roboto', sans-serif;
     align-items: center;
-    margin-left : 1100px;
-    margin-top: -40px;
-    font-size: 60px;
+    margin-left : 880px;
+    margin-top: -30px;
+    font-size: 40px;
 
 }
 #p-4{
     font-family: 'Roboto', sans-serif;
     align-items: center;
-    margin-left : 1020px;
-    margin-top: -40px;
-    font-size: 60px;
+    margin-left : 890px;
+    margin-top: -30px;
+    font-size: 40px;
+}
+#p-11{
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    margin-left : 240px;
+    margin-top: 15px;
+    font-size: 40px;
 }
 #h-3{
     align-items: center;
-    margin-left: 300px;
-    margin-top: 500px;
-    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 320px;
+    margin-top: 400px;
+    font-size: 40px;
+    letter-spacing: 8px;
 }
 #p-5{
     align-items: center;
-    margin-left: 170px;
-    font-size: 50px;
-    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 200px;
+    font-size: 40px;
+    margin-top: -35px;
 }
 #p-6{
     align-items: center;
-    margin-left: 250px;
-    font-size: 50px;
-    margin-top: -30px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 280px;
+    font-size: 40px;
+    margin-top: -35px;
 }
+.div-6
+{
+    display: flex;
+    justify-content: center;
+    margin-left: 650px;
+    margin-top: -500px;
+    width: 850px;
+    height: 700px;
 
-.div-6{
-   display: flex;
-   justify-content: center;
-   margin-left: 600px;
-   margin-top: -550px;
 }
-.div-7{
-    margin-left: 100px;
-    width: 500px;
-    height: 150px;
+#for_screens
+{
+    margin-left: 50px;
+    width: 700px;
+    height: 850px;
 }
 .div-8{
     display: flex;
-    justify-content: center;
+    justify-content: column;
+    width:1000px;
+    height: 100px;
     margin-left: 600px;
-    margin-top: 20px;
-    width:auto;
-    height: 150px;
+    margin-top: -730px;
 }
 #h-11{
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
-    font-size: 65px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 70px;
+    margin-left: 850px;
+    font-size: 40px;
 }
 #p-7{
     align-items: center;
     justify-content: center;
-    margin-left: 1050px;
-    margin-top: 80px;
-    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 800px;
+    margin-top: 50px;
+    font-size: 40px;
 }
 #p-8{
     align-items: center;
-    justify-content: center;
-    margin-left: 1005px;
+    justify-content: center; 
+    font-family: 'Roboto', sans-serif;
+    margin-left: 760px;
     margin-top: -30px;
-    font-size: 50px;
+    font-size: 40px;
 }
 #p-9{
     align-items: center;
     justify-content: center;
-    margin-left: 1100px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 840px;
     margin-top: -30px;
-    font-size: 50px;
+    font-size: 40px;
 }
 #h-12{
     align-items: center;
     justify-content: center;
+    font-family: 'Roboto', sans-serif;
     margin-top: 500px;
-    margin-left: 770px;
-    font-size: 45px;
+    margin-left: 550px;
+    font-size: 30px;
 }
 .div-11{
     display: flex;
     justify-content: center;
-    margin-left: 400px;
+    margin-left: 520px;
     margin-top: 40px;
-    width: 850px;
-    height: 130px;
+    width: 170px;
+    height: 100px;
 }
 .div-12{
     display: flex;
     justify-content: center;
-    margin-left: 800px;
-    margin-top: -130px;
-    width: 730px;
-    height: 130px;
-}
-.div-14{
-    display: flex;
-    justify-content: center;
-    margin-left: 570px;
-    margin-top: 80px;
-    width: 850px;
-    height: 200px;
+    height: 100px;
+    margin-left: 220px;
+    margin-top: -100px;
+    
 }
 #p-10{
     align-items: center;
     justify-content: center;
-    margin-left: 570px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 450px;
     margin-top: 70px;
-    font-size: 50px;
-}   
+    font-size: 30px;
+}  
+.div-14{
+    display: flex;
+    justify-content: center;
+    margin-left: 650px;
+    margin-top: 40px;
+    width: 170px;
+    height: 100px;
+} 
